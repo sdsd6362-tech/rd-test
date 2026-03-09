@@ -4,3 +4,5 @@
 diff test
 
 ninoxx 테스트용 추가
+
+오류 발생 --> 수정
