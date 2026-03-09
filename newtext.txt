@@ -2,3 +2,5 @@
 변경 사항 알아보기
 
 diff test
+
+ninoxx 테스트용 추가
